@@ -34,4 +34,8 @@ export class CadastroComponent implements OnInit{
   ngOnInit(): void {
     console.log('Componente cadastro carregado...');
   }
+  // MÉTODO PARA VISUALIZAR DADOS DO USUÁRIO NA CONSOLE.
+  onSubmit() {
+    console.log(this.usuario);
+  }
 }
