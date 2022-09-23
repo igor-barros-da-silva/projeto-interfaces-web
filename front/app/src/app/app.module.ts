@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { routing, appRoutingProviders } from './app.routing';
 // IMPORTAÇÃO PARA SE UTILIZAR O FORMULÁRIO DO ANGULAR
 import { FormsModule } from '@angular/forms';
-// IMPORTAÇÃO PARA REALIZAR REQUISIÇÕES AJAX E HTTP
+// IMPORTAÇÃO PARA REALIZAR REQUISIÇÕES HTTP
 import { HttpClientModule } from '@angular/common/http';
 
 // COMPONENTES
