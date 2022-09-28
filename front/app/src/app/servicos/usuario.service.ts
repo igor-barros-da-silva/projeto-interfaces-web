@@ -5,5 +5,5 @@ import { Usuario } from "modelo/usuario";
 
 @Injectable()
 export class UsuarioService {
-
+ // public url: string;
 }
